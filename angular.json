@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "tedushop-admin2": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tedushop-admin2"
+    }
+  },
+  "defaultProject": "tedushop-admin2",
+  "cli": {
+    "analytics": "12ebabb9-ec64-4e30-9ca2-b4a9d014a002"
+  }
 }
